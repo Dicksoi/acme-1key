@@ -11,8 +11,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Dicksoi/acme-1k
 ```
 
 快捷方式 `bash acme1key.sh`
-
-说明文档：https://owo.misaka.rest/acme-1key/
+由于misaka大佬删库了，本人自行修改了一下现在可以使用了！感谢misaka大大的代码！！！
 
 ## 关于脚本被不要脸的YouTuber抄的经过
 
